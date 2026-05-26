@@ -2,7 +2,7 @@
 
 Custom flight control software for autonomous drone using Pixhawk 2.4.8 and Raspberry Pi 4.
 
-**Author:** [Your Name]  
+**Author:** Demir Sonar
 **Project:** CS 153 Autonomous Drone System  
 **Status:** Early Development (Motor Control & Stabilization Phase)
 
